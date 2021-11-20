@@ -4,4 +4,4 @@ To run this tool you only have to run the following commands:
 
     pip install -r requirements.txt
 
-    stremalit run app.py
+    streamlit run app.py
